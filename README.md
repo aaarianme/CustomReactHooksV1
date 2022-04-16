@@ -2,4 +2,4 @@
 
 Download myapp that will come with all the hooks and a tsx file that uses that hook for the demos.
 
-Hooks are in src/public/Hooks
+Hooks are in src/Hooks
